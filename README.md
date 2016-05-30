@@ -2,6 +2,7 @@
 Create a web app that allows users to have a hub of their favorite sites in a single page.
 
 **Aleksa**
+
 ok, here I'm ;)
 1) backend - i think it's gonna be *node.js* - because we all well know what is that and I don't like Ruby on Rails and don't think that's modern for now (trending is JS), but I'm pretty open for smth new, like 'HAPI'
 
